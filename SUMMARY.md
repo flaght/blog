@@ -1,9 +1,9 @@
 * [递归计算](recursive_calc/readme.md)
 	*  cython
 		* [Cython的注意事项](recursive_calc/cython/Cython的注意事项.md)
-* [分布式计算](distribution_calc/readme.md)
-	* celery
-	* yarn
+* [高可用计算](arch_calc/readme.md)
+	* Redis
+		* [Redis高可用两种方案](arch_calc/redis/Redis高可用两种方案.md)
 * [因子分析挖掘](factors_miner/readme.md)
 	* 量价因子
 		* [Alpha191分析](factors_miner/quantity_price/Alpha191分析.md)
